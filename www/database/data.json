@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Central Downtown Apartment with Amenities",
+    "address": "...",
+    "about": "...",
+    "amenity_wifi": true,
+    "amenity_pets_allowed": true,
+    "amenity_tv": true,
+    "amenity_kitchen": true,
+    "amenity_breakfast": true,
+    "amenity_laptop": true,
+    "price_per_night": "$89",
+    "price_extra_people": "No charge",
+    "price_weekly_discount": "18%",
+    "price_monthly_discount": "50%"
+  }
+]
